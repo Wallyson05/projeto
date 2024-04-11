@@ -1,0 +1,50 @@
+body {
+   background-image: url("https://www.farmfoundation.org/wp-content/uploads/2023/02/Soybean-Field-scaled.jpeg");
+}
+
+.corpo {
+   margin: 0 auto;
+   width: 800px;
+   min-height: 600px;
+   text-align: center;
+   background-color: rgba(255, 255, 255, 0);
+}
+
+.cabeçalho {
+   margin: 2px;
+   width: 800px;
+   min-width: 100px;
+   background-color: rgba(219, 209, 209, 0.308);
+   float: left;
+   border-radius: 5px;
+}
+
+.menu{
+   margin: 2px;
+   width: 800px;
+   min-height: 50px;
+   background-color: rgba(219, 209, 209, 0.308);
+   float: left;
+   border-radius: 5px;   
+}
+
+.conteudo{
+   margin: 2px;
+   width: 800px;
+   min-height: 500px;
+   background-color: rgba(219, 209, 209, 0.308);
+   float: left;
+   border-radius:5px;
+}
+
+footer {
+   background-color: rgba(219, 209, 209, 0.308);
+   color: black;
+   text-align: center;
+   padding: 10px 0;
+   position: fixed;
+   bottom: 0;
+   width: 800px;
+}
+
+
